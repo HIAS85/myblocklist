@@ -3,3 +3,5 @@
 0.0.0.0 cdn1.spiegel.de
 0.0.0.0 b0.w.kicker.de
 0.0.0.0 w.kicker.de
+0.0.0.0 Fyt3.ggpht.com
+0.0.0.0 ggpht.com
