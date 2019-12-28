@@ -5,3 +5,4 @@
 0.0.0.0 w.kicker.de
 0.0.0.0 Fyt3.ggpht.com
 0.0.0.0 ggpht.com
+0.0.0.0 ads.google.com
