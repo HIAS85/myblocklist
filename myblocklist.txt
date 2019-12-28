@@ -6,3 +6,4 @@
 0.0.0.0 Fyt3.ggpht.com
 0.0.0.0 ggpht.com
 0.0.0.0 ads.google.com
+0.0.0.0 yt3.ggpht.com
