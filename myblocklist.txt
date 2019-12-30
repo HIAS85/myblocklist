@@ -1,11 +1,40 @@
+#########################
+#	HIAS' Blocklist 	#
+#########################
+
+0.0.0.0 http://t.kicker.de
+0.0.0.0 https://t.kicker.de
 0.0.0.0 t.kicker.de
 0.0.0.0 b0.t.kicker.de
+0.0.0.0 http://b0.t.kicker.de
+0.0.0.0 https://b0.t.kicker.de
 0.0.0.0 cdn1.spiegel.de
+0.0.0.0 http://cdn1.spiegel.de
+0.0.0.0 https://cdn1.spiegel.de
 0.0.0.0 b0.w.kicker.de
+0.0.0.0 http://b0.w.kicker.de
+0.0.0.0 https://b0.w.kicker.de
 0.0.0.0 w.kicker.de
+0.0.0.0 http://w.kicker.de
+0.0.0.0 https://w.kicker.de
 0.0.0.0 Fyt3.ggpht.com
+0.0.0.0 http://Fyt3.ggpht.com
+0.0.0.0 https://Fyt3.ggpht.com
 0.0.0.0 ggpht.com
+0.0.0.0 http://ggpht.com
+0.0.0.0 https://ggpht.com
 0.0.0.0 ads.google.com
+0.0.0.0 http://ads.google.com
+0.0.0.0 https://ads.google.com
 0.0.0.0 yt3.ggpht.com
+0.0.0.0 http://yt3.ggpht.com
+0.0.0.0 https://yt3.ggpht.com
 0.0.0.0 yt3.ggpht
+0.0.0.0 http://yt3.ggpht
+0.0.0.0 https://yt3.ggpht
 0.0.0.0 s0.2mdn.net
+0.0.0.0 http://s0.2mdn.net
+0.0.0.0 https://s0.2mdn.net
+0.0.0.0 cdn.bannerflow.com
+0.0.0.0 http://cdn.bannerflow.com
+0.0.0.0 https://cdn.bannerflow.com
