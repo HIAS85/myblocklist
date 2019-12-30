@@ -38,3 +38,6 @@
 0.0.0.0 cdn.bannerflow.com
 0.0.0.0 http://cdn.bannerflow.com
 0.0.0.0 https://cdn.bannerflow.com
+0.0.0.0 cdn.taboola.com
+0.0.0.0 http://cdn.taboola.com
+0.0.0.0 https://cdn.taboola.com
