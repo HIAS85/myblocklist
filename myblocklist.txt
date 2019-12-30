@@ -41,3 +41,6 @@
 0.0.0.0 cdn.taboola.com
 0.0.0.0 http://cdn.taboola.com
 0.0.0.0 https://cdn.taboola.com
+0.0.0.0 dy.adserve.io
+0.0.0.0 http://dy.adserve.io
+0.0.0.0 https://dy.adserve.io
