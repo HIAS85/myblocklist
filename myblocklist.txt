@@ -47,3 +47,9 @@
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 http://pagead2.googlesyndication.com
 0.0.0.0 https://pagead2.googlesyndication.com
+0.0.0.0 financeads.net
+0.0.0.0 http://financeads.net
+0.0.0.0 https://financeads.net
+0.0.0.0 p5.focus.de
+0.0.0.0 http://p5.focus.de
+0.0.0.0 https://p5.focus.de
