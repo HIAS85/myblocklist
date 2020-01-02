@@ -56,3 +56,6 @@
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 http://googleads.g.doubleclick.net
 0.0.0.0 https://googleads.g.doubleclick.net
+0.0.0.0 tpc.googlesyndication.com
+0.0.0.0 http://tpc.googlesyndication.com
+0.0.0.0 https://tpc.googlesyndication.com
