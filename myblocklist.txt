@@ -68,3 +68,6 @@
 0.0.0.0 w.kicker.de
 0.0.0.0 http://w.kicker.de
 0.0.0.0 https://w.kicker.de
+0.0.0.0 tpc.googlesyndication.com
+0.0.0.0 http://tpc.googlesyndication.com
+0.0.0.0 https://tpc.googlesyndication.com
