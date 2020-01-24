@@ -94,3 +94,6 @@ eu.api.amazonvideo.com
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 http://tpc.googlesyndication.com
 0.0.0.0 https://tpc.googlesyndication.com
+0.0.0.0 cdn.flashtalking.com
+0.0.0.0 http://cdn.flashtalking.com
+0.0.0.0 https://cdn.flashtalking.com
